@@ -1,0 +1,11 @@
+.note {
+height: 200px;
+min-width: 150px;
+/* transition: box-shadow .2s ease-in-out; */
+cursor: pointer;
+}
+
+.note:hover {
+    background-color: rgba(244, 132, 180, 0.8);
+    transform: scale(1.07);
+}
